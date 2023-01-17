@@ -1,0 +1,392 @@
+var_name,desc
+dbn,"District, borough and school number"
+school_name,School Name
+school_type,School Type
+enrollment,Enrollment
+survey_pp_RI,Rigorous Instruction
+survey_pp_CT,Collaborative Teachers
+survey_pp_SE,Supportive Environment
+survey_pp_ES,Effective School Leadership
+survey_pp_SF,Strong Family-Community Ties
+survey_pp_TR,Trust
+QR_1_1,How interesting and challenging is the curriculum?
+QR_1_2,How effective is the teaching and learning?
+QR_2_2,How well does the school assess what students are learning?
+QR_3_4,How clearly are high expectations communicated to students and staff?
+QR_4_2,How well do teachers work with each other?
+QR_1_4,How safe and inclusive is the school while supporting social-emotional growth?
+QR_1_3,How well does the school allocate and manage resources?
+QR_3_1,"How well does the school identify, track, and meet its goals?"
+QR_4_1,How thoughtful is the school's approach to teacher development and evaluation?
+QR_5_1,How well are school decisions evaluated and adjusted?
+Dates_of_Review,Dates of Review
+gender_female_pct,Percent Female
+gender_male_pct,Percent Male
+ELL,Percent English Language Learners
+IEP,Percent Students with Disabilities
+cap_setss_pct,Percentage of students recommended for general ed settings with special ed teacher support services (SETSS)
+cap_ctt_pct,Percentage of students recommended for integrated co-teaching (ICT) services
+cap_sc_pct,Percentage of students recommended for special class (SC) services
+eni_hs_pct_912,Economic Need Index
+hs_overage_undercredit_hoi_pct,Percent Overage / Undercredited
+temp_housing_pct,Percent in Temp Housing
+hra_elig_pct,Percent HRA Eligible
+ethnicity_asian_pct,Student Percent - Asian
+ethnicity_black_pct,Student Percent - Black
+ethnicity_hispanic_pct,Student Percent - Hispanic
+ethnicity_amerindian_pct,Student Percent - Native American
+ethnicity_pacific_pct,Student Percent - Native Hawaiian or Pacific Islander
+ethnicity_white_pct,Student Percent - White
+teacher_ethnicity_asian_pct,Teacher Percent - Asian
+teacher_ethnicity_black_pct,Teacher Percent - Black
+teacher_ethnicity_hispanic_pct,Teacher Percent - Hispanic
+teacher_ethnicity_amerindian_pct,Teacher Percent - Native American
+teacher_ethnicity_pacific_pct,Teacher Percent - Native Hawaiian or Pacific Islander
+teacher_ethnicity_white_pct,Teacher Percent - White
+median_distance,Nearby Student Distance (mi)
+near_pct_asian,Nearby Student Percent - Asian
+near_pct_black,Nearby Student Percent - Black
+near_pct_hispanic,Nearby Student Percent - Hispanic
+near_pct_amerindian,Nearby Student Percent - Native American
+near_pct_pacific,Nearby Student Percent - Native Hawaiian or Pacific Islander
+near_pct_white,Nearby Student Percent - White
+ethnicity_asian_pct_boro,Borough Percent - Asian
+ethnicity_black_pct_boro,Borough Percent - Black
+ethnicity_hispanic_pct_boro,Borough Percent - Hispanic
+ethnicity_amerindian_pct_boro,Borough Percent - Native American
+ethnicity_pacific_pct_boro,Borough Percent - Native Hawaiian or Pacific Islander
+ethnicity_white_pct_boro,Borough Percent - White
+pct_advanced_enroll_ea,Percentage of Students Enrolled in Advanced Courses - Asian
+pct_advanced_enroll_eb,Percentage of Students Enrolled in Advanced Courses - Black
+pct_advanced_enroll_eh,Percentage of Students Enrolled in Advanced Courses - Hispanic
+pct_advanced_enroll_ei,Percentage of Students Enrolled in Advanced Courses - Native American
+pct_advanced_enroll_ep,Percentage of Students Enrolled in Advanced Courses - Native Hawaiian or Pacific Islander
+pct_advanced_enroll_ew,Percentage of Students Enrolled in Advanced Courses - White
+pct_apib_enroll_ea,Percentage of Students Enrolled in AP or IB Courses - Asian
+pct_apib_enroll_eb,Percentage of Students Enrolled in AP or IB Courses - Black
+pct_apib_enroll_eh,Percentage of Students Enrolled in AP or IB Courses - Hispanic
+pct_apib_enroll_ei,Percentage of Students Enrolled in AP or IB Courses - Native American
+pct_apib_enroll_ep,Percentage of Students Enrolled in AP or IB Courses - Native Hawaiian or Pacific Islander
+pct_apib_enroll_ew,Percentage of Students Enrolled in AP or IB Courses - White
+Principal_experience,Years of principal experience at this school
+Teach_3_more_exp,Percent of teachers with 3 or more years of experience
+val_attendance_hs_all,Average Student Attendance
+val_chronic_absent_hs_all,Percent of Students Chronically Absent
+Teacher_attendance,Teacher Attendance Rate
+pct_fully_receiving_swd,Pct IEPs receiving all recommended special education programs
+pct_partially_receiving_swd,Pct IEPs receiving some recommended special education programs
+pct_not_receiving_swd,Pct IEPs receiving no recommended special education programs
+pct_fully_receiving_rs,Pct IEPs receiving all recommended related services
+pct_partially_receiving_rs,Pct IEPs receiving some recommended related services
+pct_not_receiving_rs,Pct IEPs receiving no recommended related services
+n_credit_10_pct_yr1,10+ Credits in 1st Year - All Students
+val_credit_10_pct_yr1,10+ Credits in 1st Year - All Students
+n_credit_10_pct_yr2,10+ Credits in 2nd Year - All Students
+val_credit_10_pct_yr2,10+ Credits in 2nd Year - All Students
+n_credit_10_pct_yr2_low_sc,10+ Credits in 2nd Year - School's Lowest Third
+val_credit_10_pct_yr2_low_sc,10+ Credits in 2nd Year - School's Lowest Third
+n_credit_10_pct_yr3,10+ Credits in 3rd Year - All Students
+val_credit_10_pct_yr3,10+ Credits in 3rd Year - All Students
+n_credit_10_pct_yr3_low_sc,10+ Credits in 3rd Year - School's Lowest Third
+val_credit_10_pct_yr3_low_sc,10+ Credits in 3rd Year - School's Lowest Third
+n_grad_pct_4_all,4-Year Graduation Rate - All Students
+val_grad_pct_4_all,4-Year Graduation Rate - All Students
+n_grad_pct_6_all,6-Year Graduation Rate - All Students
+val_grad_pct_6_all,6-Year Graduation Rate - All Students
+n_nondropout_4_all,4-Year High School Persistence Rate
+val_nondropout_4_all,4-Year High School Persistence Rate
+n_nondropout_6_all,6-Year High School Persistence Rate
+val_nondropout_6_all,6-Year High School Persistence Rate
+n_pct_cer_18mo_all,Postsecondary Enrollment Rate - 18 Months
+val_pct_cer_18mo_all,Postsecondary Enrollment Rate - 18 Months
+n_pct_cer_6mo_all,Postsecondary Enrollment Rate - 6 Months
+val_pct_cer_6mo_all,Postsecondary Enrollment Rate - 6 Months
+n_pct_cpci_all,College and Career Preparatory Course Index
+val_pct_cpci_all,College and Career Preparatory Course Index
+n_chronic_absent_hs_all,Pct 90%+ Attendance
+n_lre_all,Movement of Students with Disabilities to Less Restrictive Environments
+val_lre_all,Movement of Students with Disabilities to Less Restrictive Environments
+n_grad_pct_4_alleb,4-Year Graduation Rate - Black
+val_grad_pct_4_alleb,4-Year Graduation Rate - Black
+n_grad_pct_4_alleh,4-Year Graduation Rate - Hispanic or Latinx
+val_grad_pct_4_alleh,4-Year Graduation Rate - Hispanic or Latinx
+n_grad_pct_4_allei,4-Year Graduation Rate - Native American
+val_grad_pct_4_allei,4-Year Graduation Rate - Native American
+n_grad_pct_4_allep,4-Year Graduation Rate - Native Hawaiian or Pacific Islander
+n_grad_pct_4_bhl3_hs,4-Year Graduation Rate - Black or Hispanic Males in Lowest Third Citywide
+val_grad_pct_4_bhl3_hs,4-Year Graduation Rate - Black or Hispanic Males in Lowest Third Citywide
+n_grad_pct_4_cap5yr,"4-Year Graduation Rate - Self-Contained, Integrated Co-Teaching, or SETSS"
+val_grad_pct_4_cap5yr,"4-Year Graduation Rate - Self-Contained, Integrated Co-Teaching, or SETSS"
+n_grad_pct_4_ell5yr,4-Year Graduation Rate - English Language Learners
+val_grad_pct_4_ell5yr,4-Year Graduation Rate - English Language Learners
+n_grad_pct_4_l3c_hs,4-Year Graduation Rate - Lowest Third Citywide
+val_grad_pct_4_l3c_hs,4-Year Graduation Rate - Lowest Third Citywide
+n_pct_cer_6mo_l3c_hs,"Postsecondary Enrollment Rate - 6 Months, Lowest Third Citywide"
+val_pct_cer_6mo_l3c_hs,"Postsecondary Enrollment Rate - 6 Months, Lowest Third Citywide"
+n_pct_cpci_l3c_hs,"College and Career Preparatory Course Index, Lowest Third Citywide"
+val_pct_cpci_l3c_hs,"College and Career Preparatory Course Index, Lowest Third Citywide"
+n_persist3_4yr_all,College Persistence
+val_persist3_4yr_all,College Persistence
+rr_s,Student Survey Response Rate
+rr_t,Teacher Survey Response Rate
+rr_p,Parent Survey Response Rate
+principal,Principal at Time of Review
+n_attendance_hs_all,Average Student Attendance
+n_attendance_inperson_hs_all,Average Student Attendance - In-person days
+val_attendance_inperson_hs_all,Average Student Attendance - In-person days
+n_attendance_remote_hs_all,Average Student Attendance - Remote days
+val_attendance_remote_hs_all,Average Student Attendance - Remote days
+n_chronic_absent_hs_allea,Pct 90%+ Attendance - Asian
+val_chronic_absent_hs_allea,Pct 90%+ Attendance - Asian
+n_chronic_absent_hs_alleb,Pct 90%+ Attendance - Black
+val_chronic_absent_hs_alleb,Pct 90%+ Attendance - Black
+n_chronic_absent_hs_alleh,Pct 90%+ Attendance - Hispanic
+val_chronic_absent_hs_alleh,Pct 90%+ Attendance - Hispanic
+n_chronic_absent_hs_allei,Pct 90%+ Attendance - Native American
+val_chronic_absent_hs_allei,Pct 90%+ Attendance - Native American
+n_chronic_absent_hs_allem,Pct 90%+ Attendance - Multiracial
+val_chronic_absent_hs_allem,Pct 90%+ Attendance - Multiracial
+n_chronic_absent_hs_allep,Pct 90%+ Attendance - Native Hawaiian or Pacific Islander
+val_chronic_absent_hs_allep,Pct 90%+ Attendance - Native Hawaiian or Pacific Islander
+n_chronic_absent_hs_allew,Pct 90%+ Attendance - White
+val_chronic_absent_hs_allew,Pct 90%+ Attendance - White
+n_chronic_absent_hs_allgf,Pct 90%+ Attendance - Female
+val_chronic_absent_hs_allgf,Pct 90%+ Attendance - Female
+n_chronic_absent_hs_allgm,Pct 90%+ Attendance - Male
+val_chronic_absent_hs_allgm,Pct 90%+ Attendance - Male
+n_cohort_pct_act_engl_all,% who took ACT English exam
+val_cohort_pct_act_engl_all,% who took ACT English exam
+n_cohort_pct_act_math_all,% who took ACT Math exam
+val_cohort_pct_act_math_all,% who took ACT Math exam
+n_cohort_pct_act_read_all,% who took ACT Reading exam
+val_cohort_pct_act_read_all,% who took ACT Reading exam
+n_cohort_pct_act_scie_all,% who took ACT Science exam
+val_cohort_pct_act_scie_all,% who took ACT Science exam
+n_credit_10_pct_yr1ea,10+ Credits in 1st Year - Asian
+val_credit_10_pct_yr1ea,10+ Credits in 1st Year - Asian
+n_credit_10_pct_yr1eb,10+ Credits in 1st Year - Black
+val_credit_10_pct_yr1eb,10+ Credits in 1st Year - Black
+n_credit_10_pct_yr1eh,10+ Credits in 1st Year - Hispanic or Latinx
+val_credit_10_pct_yr1eh,10+ Credits in 1st Year - Hispanic or Latinx
+n_credit_10_pct_yr1ei,10+ Credits in 1st Year - Native American
+val_credit_10_pct_yr1ei,10+ Credits in 1st Year - Native American
+n_credit_10_pct_yr1em,10+ Credits in 1st Year -Multiracial
+val_credit_10_pct_yr1em,10+ Credits in 1st Year -Multiracial
+n_credit_10_pct_yr1ep,10+ Credits in 1st Year - Native Hawaiian or Pacific Islander
+n_credit_10_pct_yr1ew,10+ Credits in 1st Year - White
+val_credit_10_pct_yr1ew,10+ Credits in 1st Year - White
+n_credit_10_pct_yr1gf,10+ Credits in 1st Year - Female
+val_credit_10_pct_yr1gf,10+ Credits in 1st Year - Female
+n_credit_10_pct_yr1gm,10+ Credits in 1st Year - Male
+val_credit_10_pct_yr1gm,10+ Credits in 1st Year - Male
+n_credit_10_pct_yr2ea,10+ Credits in 2nd Year - Asian
+val_credit_10_pct_yr2ea,10+ Credits in 2nd Year - Asian
+n_credit_10_pct_yr2eb,10+ Credits in 2nd Year - Black
+val_credit_10_pct_yr2eb,10+ Credits in 2nd Year - Black
+n_credit_10_pct_yr2eh,10+ Credits in 2nd Year - Hispanic or Latinx
+val_credit_10_pct_yr2eh,10+ Credits in 2nd Year - Hispanic or Latinx
+n_credit_10_pct_yr2ei,10+ Credits in 2nd Year - Native American
+val_credit_10_pct_yr2ei,10+ Credits in 2nd Year - Native American
+n_credit_10_pct_yr2em,10+ Credits in 2nd Year - Multiracial
+val_credit_10_pct_yr2em,10+ Credits in 2nd Year - Multiracial
+n_credit_10_pct_yr2ep,10+ Credits in 2nd Year - Native Hawaiian or Pacific Islander
+n_credit_10_pct_yr2ew,10+ Credits in 2nd Year - White
+val_credit_10_pct_yr2ew,10+ Credits in 2nd Year - White
+n_credit_10_pct_yr2gf,10+ Credits in 2nd Year - Female
+val_credit_10_pct_yr2gf,10+ Credits in 2nd Year - Female
+n_credit_10_pct_yr2gm,10+ Credits in 2nd Year - Male
+val_credit_10_pct_yr2gm,10+ Credits in 2nd Year - Male
+n_credit_10_pct_yr3ea,10+ Credits in 3rd Year - Asian
+val_credit_10_pct_yr3ea,10+ Credits in 3rd Year - Asian
+n_credit_10_pct_yr3eb,10+ Credits in 3rd Year - Black
+val_credit_10_pct_yr3eb,10+ Credits in 3rd Year - Black
+n_credit_10_pct_yr3eh,10+ Credits in 3rd Year - Hispanic
+val_credit_10_pct_yr3eh,10+ Credits in 3rd Year - Hispanic
+n_credit_10_pct_yr3ei,10+ Credits in 3rd Year - Native American
+val_credit_10_pct_yr3ei,10+ Credits in 3rd Year - Native American
+n_credit_10_pct_yr3em,10+ Credits in 3rd Year - Multiracial
+val_credit_10_pct_yr3em,10+ Credits in 3rd Year - Multiracial
+n_credit_10_pct_yr3ep,10+ Credits in 3rd Year - Native Hawaiian or Pacific Islander
+val_credit_10_pct_yr3ep,10+ Credits in 3rd Year - Native Hawaiian or Pacific Islander
+n_credit_10_pct_yr3ew,10+ Credits in 3rd Year - White
+val_credit_10_pct_yr3ew,10+ Credits in 3rd Year - White
+n_credit_10_pct_yr3gf,10+ Credits in 3rd Year - Female
+val_credit_10_pct_yr3gf,10+ Credits in 3rd Year - Female
+n_credit_10_pct_yr3gm,10+ Credits in 3rd Year - Male
+val_credit_10_pct_yr3gm,10+ Credits in 3rd Year - Male
+n_grad_pct_4_allea,4-Year Graduation Rate - Asian
+val_grad_pct_4_allea,4-Year Graduation Rate - Asian
+n_grad_pct_4_allem,4-Year Graduation Rate - Multiracial
+val_grad_pct_4_allem,4-Year Graduation Rate - Multiracial
+n_grad_pct_4_allew,4-Year Graduation Rate - White
+val_grad_pct_4_allew,4-Year Graduation Rate - White
+n_grad_pct_4_allgf,4-Year Graduation Rate - Female
+val_grad_pct_4_allgf,4-Year Graduation Rate - Female
+n_grad_pct_4_allgm,4-Year Graduation Rate - Male
+val_grad_pct_4_allgm,4-Year Graduation Rate - Male
+n_grad_pct_4_nonnysaa_all,4-Year Graduation Rate - Excluding NYSAA
+val_grad_pct_4_nonnysaa_all,4-Year Graduation Rate - Excluding NYSAA
+n_grad_pct_6_allea,6-Year Graduation Rate - Asian
+val_grad_pct_6_allea,6-Year Graduation Rate - Asian
+n_grad_pct_6_alleb,6-Year Graduation Rate - Black
+val_grad_pct_6_alleb,6-Year Graduation Rate - Black
+n_grad_pct_6_alleh,6-Year Graduation Rate - Hispanic or Latinx
+val_grad_pct_6_alleh,6-Year Graduation Rate - Hispanic or Latinx
+n_grad_pct_6_allei,6-Year Graduation Rate - Native American
+val_grad_pct_6_allei,6-Year Graduation Rate - Native American
+n_grad_pct_6_allem,6-Year Graduation Rate - Multiracial
+val_grad_pct_6_allem,6-Year Graduation Rate - Multiracial
+n_grad_pct_6_allep,6-Year Graduation Rate - Native Hawaiian or Pacific Islander
+val_grad_pct_6_allep,6-Year Graduation Rate - Native Hawaiian or Pacific Islander
+n_grad_pct_6_allew,6-Year Graduation Rate - White
+val_grad_pct_6_allew,6-Year Graduation Rate - White
+n_grad_pct_6_allgf,6-Year Graduation Rate - Female
+val_grad_pct_6_allgf,6-Year Graduation Rate - Female
+n_grad_pct_6_allgm,6-Year Graduation Rate - Male
+val_grad_pct_6_allgm,6-Year Graduation Rate - Male
+n_grad_pct_6_nonnysaa_all,6-Year Graduation Rate - Excluding NYSAA
+val_grad_pct_6_nonnysaa_all,6-Year Graduation Rate - Excluding NYSAA
+n_grad_pct_watn8_level1,4 Year Grad Rate(Lv1 at Gr8)
+val_grad_pct_watn8_level1,4 Year Grad Rate(Lv1 at Gr8)
+n_grad_pct_watn8_level2,4 Year Grad Rate(Lv2 at Gr8)
+val_grad_pct_watn8_level2,4 Year Grad Rate(Lv2 at Gr8)
+n_grad_pct_watn8_level34,4 Year Grad Rate(Lv3/4 at Gr8)
+val_grad_pct_watn8_level34,4 Year Grad Rate(Lv3/4 at Gr8)
+n_mean_score_act_engl_all,Avg score ACT English exam
+val_mean_score_act_engl_all,Avg score ACT English exam
+n_mean_score_act_math_all,Avg score ACT Math exam
+val_mean_score_act_math_all,Avg score ACT Math exam
+n_mean_score_act_read_all,Avg score ACT Reading exam
+val_mean_score_act_read_all,Avg score ACT Reading exam
+n_mean_score_act_scie_all,Avg score ACT Science exam
+val_mean_score_act_scie_all,Avg score ACT Science exam
+n_mean_score_sat_math_all,Avg score SAT Math exam
+val_mean_score_sat_math_all,Avg score SAT Math exam
+n_mean_score_sat_writ_all,Avg score SAT Reading and Writing exam
+val_mean_score_sat_writ_all,Avg score SAT Reading and Writing exam
+n_nondropout_4_allea,4-Year High School Persistence Rate - Asian
+val_nondropout_4_allea,4-Year High School Persistence Rate - Asian
+n_nondropout_4_alleb,4-Year High School Persistence Rate - Black
+val_nondropout_4_alleb,4-Year High School Persistence Rate - Black
+n_nondropout_4_alleh,4-Year High School Persistence Rate - Hispanic
+val_nondropout_4_alleh,4-Year High School Persistence Rate - Hispanic
+n_nondropout_4_allei,4-Year High School Persistence Rate - Native American
+val_nondropout_4_allei,4-Year High School Persistence Rate - Native American
+n_nondropout_4_allem,4-Year High School Persistence Rate - Multiracial
+val_nondropout_4_allem,4-Year High School Persistence Rate - Multiracial
+n_nondropout_4_allep,4-Year High School Persistence Rate - Native Hawaiian or Pacific Islander
+n_nondropout_4_allew,4-Year High School Persistence Rate - White
+val_nondropout_4_allew,4-Year High School Persistence Rate - White
+n_nondropout_4_allgf,4-Year High School Persistence Rate - Female
+val_nondropout_4_allgf,4-Year High School Persistence Rate - Female
+n_nondropout_4_allgm,4-Year High School Persistence Rate - Male
+val_nondropout_4_allgm,4-Year High School Persistence Rate - Male
+n_nondropout_6_allea,6-Year High School Persistence Rate - Asian
+val_nondropout_6_allea,6-Year High School Persistence Rate - Asian
+n_nondropout_6_alleb,6-Year High School Persistence Rate - Black
+val_nondropout_6_alleb,6-Year High School Persistence Rate - Black
+n_nondropout_6_alleh,6-Year High School Persistence Rate - Hispanic
+val_nondropout_6_alleh,6-Year High School Persistence Rate - Hispanic
+n_nondropout_6_allei,6-Year High School Persistence Rate - Native American
+val_nondropout_6_allei,6-Year High School Persistence Rate - Native American
+n_nondropout_6_allem,6-Year High School Persistence Rate - Multiracial
+val_nondropout_6_allem,6-Year High School Persistence Rate - Multiracial
+n_nondropout_6_allep,6-Year High School Persistence Rate - Native Hawaiian or Pacific Islander
+val_nondropout_6_allep,6-Year High School Persistence Rate - Native Hawaiian or Pacific Islander
+n_nondropout_6_allew,6-Year High School Persistence Rate - White
+val_nondropout_6_allew,6-Year High School Persistence Rate - White
+n_nondropout_6_allgf,6-Year High School Persistence Rate - Female
+val_nondropout_6_allgf,6-Year High School Persistence Rate - Female
+n_nondropout_6_allgm,6-Year High School Persistence Rate - Male
+val_nondropout_6_allgm,6-Year High School Persistence Rate - Male
+n_pct_cer_18mo_coll_2yr_all,CUNY 2-Year (18 months)
+val_pct_cer_18mo_coll_2yr_all,CUNY 2-Year (18 months)
+n_pct_cer_18mo_coll_4yr_all,CUNY 4-Year (18 months)
+val_pct_cer_18mo_coll_4yr_all,CUNY 4-Year (18 months)
+n_pct_cer_18mo_coll_oost_all,Out of State (18 months)
+val_pct_cer_18mo_coll_oost_all,Out of State (18 months)
+n_pct_cer_18mo_coll_priv_all,NYS Private (18 months)
+val_pct_cer_18mo_coll_priv_all,NYS Private (18 months)
+n_pct_cer_18mo_coll_publ_all,NYS Public (18 months)
+val_pct_cer_18mo_coll_publ_all,NYS Public (18 months)
+n_pct_cer_18mo_pub_svc_all,Public Service (18 months)
+val_pct_cer_18mo_pub_svc_all,Public Service (18 months)
+n_pct_cer_18mo_vocat_all,Vocational Program (18 months)
+val_pct_cer_18mo_vocat_all,Vocational Program (18 months)
+n_pct_cer_6mo_allea,Postsecondary Enrollment Rate - 6 Months - Asian
+val_pct_cer_6mo_allea,Postsecondary Enrollment Rate - 6 Months - Asian
+n_pct_cer_6mo_alleb,Postsecondary Enrollment Rate - 6 Months - Black
+val_pct_cer_6mo_alleb,Postsecondary Enrollment Rate - 6 Months - Black
+n_pct_cer_6mo_alleh,Postsecondary Enrollment Rate - 6 Months - Hispanic or Latinx
+val_pct_cer_6mo_alleh,Postsecondary Enrollment Rate - 6 Months - Hispanic or Latinx
+n_pct_cer_6mo_allei,Postsecondary Enrollment Rate - 6 Months - Native American
+val_pct_cer_6mo_allei,Postsecondary Enrollment Rate - 6 Months - Native American
+n_pct_cer_6mo_allem,Postsecondary Enrollment Rate - 6 Months - Multiracial
+val_pct_cer_6mo_allem,Postsecondary Enrollment Rate - 6 Months - Multiracial
+n_pct_cer_6mo_allep,Postsecondary Enrollment Rate - 6 Months - Native Hawaiian or Pacific Islander
+val_pct_cer_6mo_allep,Postsecondary Enrollment Rate - 6 Months - Native Hawaiian or Pacific Islander
+n_pct_cer_6mo_allew,Postsecondary Enrollment Rate - 6 Months - White
+val_pct_cer_6mo_allew,Postsecondary Enrollment Rate - 6 Months - White
+n_pct_cer_6mo_allgf,Postsecondary Enrollment Rate - 6 Months - Female
+val_pct_cer_6mo_allgf,Postsecondary Enrollment Rate - 6 Months - Female
+n_pct_cer_6mo_allgm,Postsecondary Enrollment Rate - 6 Months - Male
+val_pct_cer_6mo_allgm,Postsecondary Enrollment Rate - 6 Months - Male
+n_pct_cer_6mo_coll_2yr_all,Postsecondary Enrollment in CUNY 2-Year (6 months)
+val_pct_cer_6mo_coll_2yr_all,Postsecondary Enrollment in CUNY 2-Year (6 months)
+n_pct_cer_6mo_coll_4yr_all,Postsecondary Enrollment in CUNY 4-Year (6 months)
+val_pct_cer_6mo_coll_4yr_all,Postsecondary Enrollment in CUNY 4-Year (6 months)
+n_pct_cer_6mo_coll_oost_all,Postsecondary Enrollment in Out of State (6 months)
+val_pct_cer_6mo_coll_oost_all,Postsecondary Enrollment in Out of State (6 months)
+n_pct_cer_6mo_coll_priv_all,Postsecondary Enrollment in NYS Private (6 months)
+val_pct_cer_6mo_coll_priv_all,Postsecondary Enrollment in NYS Private (6 months)
+n_pct_cer_6mo_coll_publ_all,Postsecondary Enrollment in NYS Public (6 months)
+val_pct_cer_6mo_coll_publ_all,Postsecondary Enrollment in NYS Public (6 months)
+n_pct_cer_6mo_other_all,Postsecondary Enrollment in Other (6 months)
+val_pct_cer_6mo_other_all,Postsecondary Enrollment in Other (6 months)
+n_pct_cer_6mo_pub_svc_all,Public Service (6 months)
+val_pct_cer_6mo_pub_svc_all,Public Service (6 months)
+n_pct_cer_6mo_vocat_all,Vocational Program (6 months)
+val_pct_cer_6mo_vocat_all,Vocational Program (6 months)
+n_pct_clg_rdy_act_engl_all,% of students in the current cohort who took the ACT English exam who scored 20+
+val_pct_clg_rdy_act_engl_all,% of students in the current cohort who took the ACT English exam who scored 20+
+n_pct_clg_rdy_act_math_all,% of students in the current cohort who took the ACT Math exam who scored 21+
+val_pct_clg_rdy_act_math_all,% of students in the current cohort who took the ACT Math exam who scored 21+
+n_pct_clg_rdy_sat_math_all,% of students in the current cohort who took the SAT Math exam who passed the college ready threshold
+val_pct_clg_rdy_sat_math_all,% of students in the current cohort who took the SAT Math exam who passed the college ready threshold
+n_pct_clg_rdy_sat_writ_all,% of students in the current cohort who took the SAT Reading and Writing exam and scored 480+
+val_pct_clg_rdy_sat_writ_all,% of students in the current cohort who took the SAT Reading and Writing exam and scored 480+
+n_pct_cpci_allea,College and Career Preparatory Course Index - Asian
+val_pct_cpci_allea,College and Career Preparatory Course Index - Asian
+n_pct_cpci_alleb,College and Career Preparatory Course Index - Black
+val_pct_cpci_alleb,College and Career Preparatory Course Index - Black
+n_pct_cpci_alleh,College and Career Preparatory Course Index -Hispanic or Latinx
+val_pct_cpci_alleh,College and Career Preparatory Course Index -Hispanic or Latinx
+n_pct_cpci_allei,College and Career Preparatory Course Index - Native American
+val_pct_cpci_allei,College and Career Preparatory Course Index - Native American
+n_pct_cpci_allem,College and Career Preparatory Course Index - Multiracial
+val_pct_cpci_allem,College and Career Preparatory Course Index - Multiracial
+n_pct_cpci_allep,College and Career Preparatory Course Index - Native Hawaiian or Pacific Islander
+n_pct_cpci_allew,College and Career Preparatory Course Index - White
+val_pct_cpci_allew,College and Career Preparatory Course Index - White
+n_pct_cpci_allgf,College and Career Preparatory Course Index - Female
+val_pct_cpci_allgf,College and Career Preparatory Course Index - Female
+n_pct_cpci_allgm,College and Career Preparatory Course Index - Male
+val_pct_cpci_allgm,College and Career Preparatory Course Index - Male
+n_pct_cpci_ap_all,% Scoring 3+ on any AP Exam
+val_pct_cpci_ap_all,% Scoring 3+ on any AP Exam
+n_pct_cpci_cpcc_all,% Passing a DOE-certified CPCC Course
+val_pct_cpci_cpcc_all,% Passing a DOE-certified CPCC Course
+n_pct_cpci_cte_exam_all,% Passing an Industry-Recognized Technical Assessment
+val_pct_cpci_cte_exam_all,% Passing an Industry-Recognized Technical Assessment
+n_pct_cpci_ib_all,% Scoring 4+ on any IB Exam
+val_pct_cpci_ib_all,% Scoring 4+ on any IB Exam
+n_pct_cpci_other_college_all,% Earning a Grade of 'C' or Higher for College Credit
+val_pct_cpci_other_college_all,% Earning a Grade of 'C' or Higher for College Credit
+n_pct_degree_arts_4yr_all,% Earning a Diploma with an Arts Endorsement
+val_pct_degree_arts_4yr_all,% Earning a Diploma with an Arts Endorsement
+n_pct_degree_cte_4yr_all,% Earning a Diploma with a CTE Endorsement
+val_pct_degree_cte_4yr_all,% Earning a Diploma with a CTE Endorsement
+n_pct_degree_reg_4yr_all,% Attaining Regents Diploma (4 year)
+val_pct_degree_reg_4yr_all,% Attaining Regents Diploma (4 year)
+n_pct_degree_reg_6yr_all,% Attaining Regents Diploma (6 year)
+val_pct_degree_reg_6yr_all,% Attaining Regents Diploma (6 year)
